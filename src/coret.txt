@@ -1,0 +1,8 @@
+key 30805e5cd343402b898187014be1b09f
+
+page closed
+    is fine
+page refreshed
+    save current url
+        page done refreshed
+            load old current url
